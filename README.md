@@ -1,3 +1,3 @@
 # testrepo
 This is my first Repository <br>
-Author-Muhammad Usman
+Author-Muhammad Usman (Developer)
